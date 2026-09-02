@@ -1,0 +1,69 @@
+lecture 1 2026-09-02
+get lecture recording from the lecturer, ask abt future recordings - osama@bu.edu
+ - on blackboard
+get phone number from blackboard, join slack channel or whichever form of group communication is created
+get new slides, replace the old one copied on this repo
+ask lecturer about etiquette of attending a phd thesis defense
+ - public! no need for invitation
+ask lecturer about how attendance is measured
+ - based on trust and a general vibe
+ask lecturer about enabling captions on the zoom so that i can hear him better
+ - he will do this he said
+ask lecturer - for filling out the survey, have taken no graduate classes except this one technically - what gives?
+ask lecturer - cannot afford ai account. will look for free options but should notify him.
+ - send email
+
+ai = elephant in table. jesus christ
+
+previous knowledge: one scholar many fields -> electrical engineer profession-> specialisation etc.
+prediction of future: A. specialisation continues/bimodal split (frontier specialists go deeper, ai augmented generalists integrate across domains)/reversal "death becomes a commodity, breadth wins broadly"
+guess which prof thinks abt future? B for bimodal split
+
+question the phrase of "AI-augmented generalists"
+ - is generative AI useful? is it more useful as hallucinations decrease?
+ - risk of treating generative AI like search engine instead of using it as a prompter
+ - does generative AI make people lazy? or does it facilitate laziness? 
+ - - preferring ease of accessing information isn't a sin
+ - propagation of false sources/citations by generative AI
+
+rag process - generative ai that can be set to only use uploaded documents
+
+factors that encourage ai:
+ - companies want more from one person - focus on efficiency and output speed
+ - ai serves as the professor's phd student, aiding with speed and effectively a junior assistant
+ - a single skill cannot sustain itself; "earlier tools cheapened access to knowledge; generative ai cheapens the execution of procedural depth itself"
+ - - advantage now is "integration across domains with enough depth in each domain to tell good work from confident nonsense"
+ 
+ terence tao words on LLMs solving open problems.
+
+MORE INFO ON SLIDES:
+product formation
+product analysis
+use-case development
+product testing
+concept validation
+after launch
+
+project 1: tutorial w. quiz questions + proposal. papers, quizzes, who is it for
+project 2: prototype, validate, or test essence of your proposal. get provable aid from ai
+project 3: societal impact of technology
+project 4: seminar review (of seminar, conference, phd thesis defense.)
+
+team project: team of 3, 5 sprints and then poster/presentation
+
+all homework, documents, projects must be on github or shared drive.
+github account required.
+
+next week focus on becoming familiar with github, code management principles, agile development
+
+"the only way to lose it [grade of A] is not to go deep" <- ?
+
+"my friend claude" fdkjfkjdf
+
+important things to decide:
+who uses it?
+what decision does it support? what choices might it recommend?
+cost of a miss - a false negative
+cost of a false alarm - a false positive
+what to optimise - sensitivity or precision or some ratio of the two?
+design consequences and requirements
